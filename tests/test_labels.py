@@ -2,6 +2,9 @@
 Tests for the `labeling` module.
 """
 
+import sys
+sys.path.append("D:/Code/Repos/mlfinpy/mlfinpy")
+
 import os
 import unittest
 
